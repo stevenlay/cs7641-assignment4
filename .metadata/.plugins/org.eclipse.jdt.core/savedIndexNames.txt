@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+/Users/stevenlay/Desktop/cs7641-assignment4-master/.metadata/.plugins/org.eclipse.jdt.core
+2023765798.index
+520077835.index
+819024383.index
+3596844353.index
+2388982378.index
+3806267690.index
+2497468329.index
+1510235397.index
+1354481355.index
+2730866660.index
+1432471235.index
+2240076519.index
+2585418274.index
+3687945527.index
+2955551969.index
+1283546336.index
+4146295980.index
+2900420130.index

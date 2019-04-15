@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="burlap.domain.singleagent.gridworld.GridWorldVisualizer"/>
+    <fullyQualifiedTypeName name="burlap.visualizer.Visualizer"/>
+    <fullyQualifiedTypeName name="burlap.shell.visual.VisualExplorer"/>
+</qualifiedTypeNameHistroy>
